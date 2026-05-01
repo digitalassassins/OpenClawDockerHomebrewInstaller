@@ -1,5 +1,5 @@
 ## Change these top variables to what you require
-folder="my-openclaw" # change storage and Docker Stack name
+folder="my-openclaw" # change git storage folder and Docker Stack name
 export OPENCLAW_GATEWAY_PORT=18789
 export OPENCLAW_BRIDGE_PORT=18790
 saveDirectory="config" # where to save the config files
